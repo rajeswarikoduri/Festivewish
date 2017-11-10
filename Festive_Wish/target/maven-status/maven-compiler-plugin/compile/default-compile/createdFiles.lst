@@ -1,0 +1,16 @@
+com\festive\DTO\AllcategoryDTO.class
+com\festive\model\Images.class
+com\festive\DAO\AbstractDao.class
+com\festive\model\Allcategories.class
+com\festive\DAO\FestiveDaoImpli.class
+com\festive\config\ApplicationConfiguration.class
+com\festive\service\FestivewishServiceImpli.class
+com\festive\DTO\HomepageDTO.class
+com\festive\DTO\ImagesDTO.class
+com\festive\config\HibernateConfig.class
+com\festive\controller\FestiveWishController.class
+com\festive\festivewish\FestiveWishApplication.class
+com\festive\model\Config.class
+com\festive\service\FestiveService.class
+com\festive\config\SwaggerConfig.class
+com\festive\DAO\FestiveDao.class
